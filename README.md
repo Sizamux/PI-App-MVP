@@ -8,6 +8,6 @@ Versão de Banco de dados utilizado: MySql 8.0.28
 - Executar a querry Sql [OkProjettos%20SQL.sql](OkProjettos%20SQL.sql)
 - Editar variaveis de conexão localizada em [/ProjOkProjetos/Model/ConnectionWDatabase.cs](/ProjOkProjetos/Model/ConnectionWDatabase.cs)
 2. Bibliotecas:
--MySQLConnector
--.NetFramework 7.0.0
--.Pomelo.EntityFrameworkCore.MySql
+- MySQLConnector
+- .NetFramework 7.0.0
+- .Pomelo.EntityFrameworkCore.MySql
